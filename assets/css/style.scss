@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+#navigation a {
+    color: #ffffff;
+    padding: 2em
+}

@@ -24,10 +24,10 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           <section id="navigation">
-            <a href="/">About</a>
-            <a href="/team.html">Team</a>
-            <a href="/download.html">Downloads</a>
-            <a href="/tutorial.html">Tutorial</a>
+            <a href="{{site.url}}{{ site.baseurl }}/">About</a>
+            <a href="{{site.url}}{{ site.baseurl }}/team.html">Team</a>
+            <a href="{{site.url}}{{ site.baseurl }}/download.html">Downloads</a>
+            <a href="{{site.url}}{{ site.baseurl }}/tutorial.html">Tutorial</a>
           </section>
 
           {% if site.show_downloads %}

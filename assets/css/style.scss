@@ -18,4 +18,21 @@
     display: flex;
     width: 100%;
     justify-content: space-around;
-  }
+}
+.step {
+    background-color: lightgrey;
+    padding: 1em;
+    margin: .5em;
+    display: flex;
+    flex-direction: column;
+    // align-items: center;
+}
+.sessionDesc{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.fields {
+    padding: 1em;
+    line-height: 200%;
+}

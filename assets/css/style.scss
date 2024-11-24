@@ -27,12 +27,14 @@
     flex-direction: column;
     // align-items: center;
 }
-.sessionDesc{
+.sessionDesc {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
 }
 .fields {
+    max-width: 40em;
     padding: 1em;
     line-height: 200%;
 }

@@ -1,14 +1,6 @@
 ---
 layout: default
 ---
-
-### Team Member page
-
-List the project "staff" with pictures, bio info, and a contact.
-Create a 150-250 word Biography describing yourself.  List your degree, research/project affiliations (including capstone), interests, etc.
-Add a head shot image.  (I would suggest having the first image on the left with the bio on the right, followed by the next image on the right and bio on the left, etc.)
-Finally, add your contact info (e.g., an email address) and optionally a link to "Linkedin" 
-
 # Meet the team
 
 <div class="member">
@@ -31,7 +23,7 @@ Finally, add your contact info (e.g., an email address) and optionally a link to
 </div>
 
 <div class="member">
-    <img src="{{site.url}}{{ site.baseurl }}/assets/images/team/team-placeholder.jpg" alt="Brayden Neal">
+    <img src="{{site.url}}{{ site.baseurl }}/assets/images/team/brayden-headshot.jpg" alt="Brayden Neal">
     <div class="bio">
 <div markdown="1" class="name">
 
@@ -39,10 +31,12 @@ Finally, add your contact info (e.g., an email address) and optionally a link to
 
 </div>
         <p class="about">
-            Bio [degree, research/project, interests, etc.]
+            Hey! I am Brayden Neal, a computer science student at the University of Utah. Throughout college I have taken an interest in developing lots of ideas I have had one of them being Booth, our capstone. After college I plan on going into Robotic Process Automation for Great American Insurance Group, while working on app side projects on the side like continuing Booth. Other interest I have is snowboarding, coffee, sleeping, working out, and studying with friends. All the skills I honed with this degree I plan to contributing to practical parts in my life to make life easier. I am very thankful for my Booth team, it is now an app that I am proud to have been apart of making!
         </p>
         <p>
-          email  
+          Email: <a href="mailto: braydenrneal@gmail.com"> braydenrneal@gmail.com </a>
+            <br>
+            LinkedIn: <a href="https://www.linkedin.com/in/brayden-neal"> brayden-neal </a>
         </p>
     </div>
 </div>
@@ -65,7 +59,7 @@ Finally, add your contact info (e.g., an email address) and optionally a link to
 </div>
 
 <div class="member">
-    <img src="{{site.url}}{{ site.baseurl }}/assets/images/team/team-placeholder.jpg" alt="Nelson">
+    <img src="{{site.url}}{{ site.baseurl }}/assets/images/team/nelson-headshot.jpg" alt="Nelson">
     <div class="bio">
 <div markdown="1" class="name">
 
@@ -77,6 +71,11 @@ Finally, add your contact info (e.g., an email address) and optionally a link to
         </p>
         <p>
             Email: <a href="mailto: nelsonquoc2003@gmail.com"> nelsonquoc2003@gmail.com </a>
+            <br>
+            LinkedIn: <a href="https://www.linkedin.com/in/nelstran/"> nelstran </a>
+        </p>
+        <p>
+            
         </p>
     </div>
 </div>
